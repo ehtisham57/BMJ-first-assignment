@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    margin-top: 150px;
+}
+h1{
+    color: red;
+    font-size: 50px;
+}
+p{
+    color: rgb(138, 74, 11);
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 60px;
+}
